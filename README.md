@@ -6,7 +6,7 @@
 <div align="center">
 📫 How to reach me
 <ul>
-- Email: <a href="mailto:vishveshkshrivatsav@gmail.com"> vishks.07@gmail.com </a>
+- Email: <a href="mailto:vishveshkshrivatsav@gmail.com"> vishveshkshrivatsav@gmail.com </a>
 </ul>
 </div>
 
