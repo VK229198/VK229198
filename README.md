@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vishvesh 👋
 
 🚀 **BTech Student | AI & Networking Enthusiast | Researcher**
 
@@ -28,9 +28,9 @@ I'm currently a **2nd-year BTech student at RV University** with a passion for *
 📖 Currently working on research papers for **IEEE conferences** on AI-driven Networking & Timetable Scheduling.
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **Email:** your.email@example.com
+- **GitHub:** [github.com/VK229198](https://github.com/VK229198)
+- **LinkedIn:** [linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/))
+- **Email:** vishveshkshrivatsav@gmail.com
 
 ---
 💡 Always open to collaborations and learning new things in AI, Networking, and Embedded Systems!
