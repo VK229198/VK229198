@@ -29,7 +29,7 @@ I'm currently a **2nd-year BTech student at RV University** with a passion for *
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/VK229198](https://github.com/VK229198)
-- **LinkedIn:** [linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/](https://linkedin.com/in/yourname](https://www.linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/))
+- **LinkedIn:** [linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/](https://www.linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/)
 - **Email:** vishveshkshrivatsav@gmail.com
 
 ---
