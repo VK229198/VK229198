@@ -19,17 +19,17 @@ I'm currently a **2nd-year BTech student at RV University** with a passion for *
 - **Version Control:** Git & GitHub  
 
 ## 📌 Notable Projects
-- **[Genetic Algorithm-based Timetable Scheduler](#)**: Optimized scheduling using GA for university courses.  
-- **[Autonomous Network Management with RL](#)**: Applied RL techniques for network self-optimization.  
-- **[Navi Bus - Real-time Bus Tracking System](#)**: A LoRa-based VLSI project for public transportation tracking.  
-- **[QR-based Workshop Attendance System](#)**: A Flask & Google Sheets-based automated attendance system.  
+- **[Genetic Algorithm-based Timetable Scheduler](https://github.com/VK229198/Timetable_Generator)**: Optimized scheduling using GA for university courses.  
+- **[Autonomous Network Management with RL](https://github.com/VK229198/Traffic-Management-with-RL)**: Applied RL techniques for network self-optimization.  
+- **[Navi Bus - Real-time Bus Tracking System](https://github.com/VK229198/Navi_Bus)**: A LoRa-based VLSI project for public transportation tracking.  
+- **[QR-based Workshop Attendance System](https://github.com/VK229198/QR_Attendance)**: A Flask & Google Sheets-based automated attendance system.  
 
 ## 📄 Research & Publications
 📖 Currently working on research papers for **IEEE conferences** on AI-driven Networking & Timetable Scheduling.
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/VK229198](https://github.com/VK229198)
-- **LinkedIn:** [linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/))
+- **LinkedIn:** [linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/](https://linkedin.com/in/yourname](https://www.linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/))
 - **Email:** vishveshkshrivatsav@gmail.com
 
 ---
