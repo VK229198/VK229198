@@ -2,18 +2,16 @@
 
 🚀 **BTech Student | AI & Networking Enthusiast | Researcher**
 
-I'm currently a **2nd-year BTech student at RV University** with a passion for **Artificial Intelligence, Networking, and Embedded Systems**. I enjoy working on projects that combine software, hardware, and optimization techniques.
+I'm currently a **3rd-year BTech student at RV University** with a passion for **Artificial Intelligence, Networking, and Embedded Systems**. I enjoy working on projects that combine software, hardware, and optimization techniques.
 
 ## 🔬 Research & Interests
-- **Autonomous Network Management using Reinforcement Learning**  
 - **Genetic Algorithm-based Timetable Scheduling**  
 - **Reinforcement Learning-based Traffic Management in SDN**  
 - **AI-driven Optimization & Network Automation**
 
 ## 🛠️ Tech Stack
-- **Programming:** Python, C++, JavaScript, SQL  
+- **Programming:** Python, C++, C, java, JavaScript, SQL  
 - **Frameworks:** Flask, TensorFlow, PyTorch, Mesa (Multi-Agent Systems)  
-- **Networking:** Mininet, Ryu SDN Controller, Wireshark  
 - **Embedded Systems:** Arduino, LoRa, GPS Modules  
 - **Databases:** MySQL, Google Sheets API  
 - **Version Control:** Git & GitHub  
