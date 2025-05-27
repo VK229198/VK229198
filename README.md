@@ -10,8 +10,8 @@ I'm currently a **3rd-year BTech student at RV University** with a passion for *
 - **AI-driven Optimization & Network Automation**
 
 ## 🛠️ Tech Stack
-- **Programming:** Python, C++, C, java, JavaScript, SQL  
-- **Frameworks:** Flask, TensorFlow, PyTorch, Mesa (Multi-Agent Systems)  
+- **Programming:** Python, C++, C, Java, JavaScript, SQL, Dart  
+- **Frameworks:** Flask, TensorFlow, PyTorch, Mesa (Multi-Agent Systems), Flutter
 - **Embedded Systems:** Arduino, LoRa, GPS Modules  
 - **Databases:** MySQL, Google Sheets API  
 - **Version Control:** Git & GitHub  
