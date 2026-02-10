@@ -6,7 +6,8 @@ I'm currently a **3rd-year BTech student at RV University** with a passion for *
 
 ## 🔬 Research & Interests
 - **Genetic Algorithm-based Timetable Scheduling**  
-- **Reinforcement Learning-based Traffic Management in SDN**  
+- **Reinforcement Learning-based Traffic Management in SDN**
+- **Worked on a VGG- like model with more hidden layers for efficient and accurate PCOS detection**
 - **LLM Chatbot for translating code-mix language to english**
 
 ## 🛠️ Tech Stack
@@ -25,7 +26,9 @@ I'm currently a **3rd-year BTech student at RV University** with a passion for *
 ## 📄 Research & Publications
 - Published and presented a paper in CIMA-2025 on the topic of AI-driven Timetable Scheduling
 - Published a paper in 16th ICCCNT on the topic of RL based SDN Traffic Management
-  
+- Wrote a paper on comparing VGG-19 model to our own architecture of a VGG like model for PCOS prediction
+- Working on a project a hopeful reasearch on the topic of code-mix translation based Chatbot
+
 ## 📫 Connect with Me
 - **GitHub:** [github.com/VK229198](https://github.com/VK229198)
 - **LinkedIn:** [linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/](https://www.linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/)
