@@ -1,16 +1,16 @@
 # Hi there, I'm Vishvesh 👋
 
-🚀 **BTech Student | AI & Networking Enthusiast | Researcher**
+🚀 **BTech Student | AI Enthusiast | Researcher**
 
 I'm currently a **3rd-year BTech student at RV University** with a passion for **Artificial Intelligence, Networking, and Embedded Systems**. I enjoy working on projects that combine software, hardware, and optimization techniques.
 
 ## 🔬 Research & Interests
 - **Genetic Algorithm-based Timetable Scheduling**  
 - **Reinforcement Learning-based Traffic Management in SDN**  
-- **AI-driven Optimization & Network Automation**
+- **LLM Chatbot for translating code-mix language to english**
 
 ## 🛠️ Tech Stack
-- **Programming:** Python, C++, C, Java, JavaScript, SQL, Dart  
+- **Programming:** Python, C++, C, Java, SQL, Dart  
 - **Frameworks:** Flask, TensorFlow, PyTorch, Mesa (Multi-Agent Systems), Flutter
 - **Embedded Systems:** Arduino, LoRa, GPS Modules  
 - **Databases:** MySQL, Google Sheets API  
@@ -23,12 +23,13 @@ I'm currently a **3rd-year BTech student at RV University** with a passion for *
 - **[QR-based Workshop Attendance System](https://github.com/VK229198/QR_Attendance)**: A Flask & Google Sheets-based automated attendance system.  
 
 ## 📄 Research & Publications
-📖 Currently working on research papers for **IEEE conferences** on AI-driven Networking & Timetable Scheduling.
-
+- Published and presented a paper in CIMA-2025 on the topic of AI-driven Timetable Scheduling
+- Published a paper in 16th ICCCNT on the topic of RL based SDN Traffic Management
+  
 ## 📫 Connect with Me
 - **GitHub:** [github.com/VK229198](https://github.com/VK229198)
 - **LinkedIn:** [linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/](https://www.linkedin.com/in/vishvesh-k-shrivatsav-6b92ab281/)
 - **Email:** vishveshkshrivatsav@gmail.com
 
 ---
-💡 Always open to collaborations and learning new things in AI, Networking, and Embedded Systems!
+💡 Always open to collaborations and learning new things in AI
