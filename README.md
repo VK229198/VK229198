@@ -22,7 +22,7 @@ I'm currently a **3rd-year BTech student at RV University** with a passion for *
 - **[Autonomous Network Management with RL](https://github.com/VK229198/Traffic-Management-with-RL)**: Applied RL techniques for network self-optimization.  
 - **[Navi Bus - Real-time Bus Tracking System](https://github.com/VK229198/Navi_Bus)**: A LoRa-based VLSI project for public transportation tracking.  
 - **[QR-based Workshop Attendance System](https://github.com/VK229198/QR_Attendance)**: A Flask & Google Sheets-based automated attendance system.
-- **[VGG - Extension] (https://github.com/VK229198/VGG-extension)**: Optimized scheduling using GA for university courses.    
+- **[VGG - Extension](https://github.com/VK229198/VGG-extension)**: Optimized scheduling using GA for university courses.    
 
 ## 📄 Research & Publications
 - Published and presented a paper in CIMA-2025 on the topic of AI-driven Timetable Scheduling
